@@ -2,7 +2,7 @@ import  { useState, useEffect } from 'react';
 import { useAccount } from '../components/AccountProvider';
 import { Xumm } from 'xumm';
 
-const xumm = new Xumm('c5973057-149c-4008-a867-70d71fc5dc29');
+const xumm = new Xumm('0c2388da-7eb1-4654-94a1-65f15ebdb394');
 
 const ListNFTForSale = () => {
   const { account } = useAccount();

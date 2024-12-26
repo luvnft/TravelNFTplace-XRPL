@@ -1,6 +1,6 @@
 import { XummSdk } from 'xumm-sdk';
 
 // Replace with your Xumm API key and secret
-const xumm = new XummSdk('c5973057-149c-4008-a867-70d71fc5dc29', '0fe9c748-4987-41f2-80d6-cd7c1e2e3e1c');
+const xumm = new XummSdk('0c2388da-7eb1-4654-94a1-65f15ebdb394', '402370a8-46c6-4d87-b65b-ff59624f07f6');
 
 export default xumm;

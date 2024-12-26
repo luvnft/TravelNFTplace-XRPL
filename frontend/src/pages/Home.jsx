@@ -10,7 +10,7 @@ const categories = [
 const Home = () => {
   return (
     <div>
-      <h1>Travel NFT Marketplace</h1>
+      <h1>Travel NFT Market</h1>
       <WalletConnect />
       <Link to="/marketplace">
         <button>View Marketplace</button>
